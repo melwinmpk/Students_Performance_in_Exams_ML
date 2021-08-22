@@ -1,8 +1,8 @@
 ## Objective 
-### To understand the influence of the parents background, test preparation etc on students performance in the <br> Given Data
+### To understand the influence of the parent's background, test preparation etc on students performance in the given data
 
-<b><h3>Intriduction</h3></b>
-<p>Let's be real we have all wondered at some point in our lives,  how some people score more marks than us? is it due to they study more? or they come from a better background? or is it due to some other reason? more importantly, how can we improve our performace? lets try to find answers to these questions</p>
+<b><h3>Introduction</h3></b>
+<p>Let's be real we have all wondered at some point in our lives,  how some people score more marks than us? is it due to the study more? or do they come from a better background? or is it due to some other reason? more importantly, how can we improve our performance? let's try to find answers to these questions</p>
 
 <b><p>Variable Description<p></b>
 <ul>
@@ -120,9 +120,8 @@ df.head()
 
 
 <p>By Looking at this Data we find we have to segregate the Students who perform well and not
-For this we have cluster the data in Groups <br>
-So <b>WSS Plot</b> had been used the to find Out Optimal No of Clusters for given Data. <br>
-For this data <b>2</b> was the Optimal Cluster.</p>
+For this, we have cluster the data in Groups<br>
+So <b>WSS Plot</b> had been used to find Out the Optimal No of Clusters for given Data. <b>2</b> was the Optimal Cluster.</p>
 <p>By Using the <b>K-Means++ Unsupervised Machine Learning Model</b> Data is Segregate</p>
 
 
